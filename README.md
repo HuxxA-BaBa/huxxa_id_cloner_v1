@@ -17,4 +17,4 @@ git clone https://github.com/HuxxA-BaBa/huxxa_id_cloner_v1
 
 cd huxxa_id_cloner_v1
 
-python huxxa_id_cloner_v1.py
+python huxxa-id-cloner-v1.py
