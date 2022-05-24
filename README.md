@@ -19,6 +19,6 @@ cd huxxa_id_cloner_v1
 
 python huxxa-id-cloner-v1.py
 
-
+# Username & Password
 For Username && Password
 Knock me on facebook:https://www.facebook.com/HuxxA.BaBa
